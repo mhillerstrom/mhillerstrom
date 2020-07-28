@@ -3,7 +3,7 @@
 <!--
 **mhillerstrom/mhillerstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on offline capabilities for FeathersJS and a boilerplate for mobile-first computing using Quasar, Cordova, FeathersJS, etc.
 - 🌱 I’m currently learning Lerna
 - 👯 I’m looking to collaborate on FeathersJS
 <!--
