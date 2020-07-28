@@ -12,4 +12,4 @@
 - 📫 How to reach me: TBD
 -->
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: Loves to tinker with full stack coding, enjoying good wine and food, and my family.
+- ⚡ Fun fact: Loves to tinker with full stack coding, enjoying good wine and food, and relaxing with my family. I know 42 is the meaning of Life, the Universe, and Everything...
